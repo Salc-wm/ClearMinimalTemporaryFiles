@@ -1,0 +1,11 @@
+LIBRARY KERNEL32.dll
+EXPORTS
+    GetEnvironmentVariableA
+    FindFirstFileA
+    FindNextFileA
+    FindClose
+    DeleteFileA
+    RemoveDirectoryA
+    ExitProcess
+    lstrcatA
+    lstrcpyA
